@@ -16,6 +16,8 @@ UCI_HAR_Dataset/
 IMDB/
 model/
 NaverMovie/
+keys/
+voice/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
